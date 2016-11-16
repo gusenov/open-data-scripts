@@ -673,7 +673,7 @@ callback(
         "allowDecimals": false,
         "min": 0,
         "title": {
-            "text": "Number of disease cases per 100 000 population"
+            "text": "Number of disease cases (registered for the first time) per 100 000 population"
         }
     }
 }

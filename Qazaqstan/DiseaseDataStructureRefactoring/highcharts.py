@@ -80,7 +80,7 @@ def create_stacked_and_grouped_column_chart(records, categories_key, series_key,
     yAxis["allowDecimals"] = False
     yAxis["min"] = 0
     yAxis["title"] = {}
-    yAxis["title"]["text"] = "Number of disease cases per 100 000 population"
+    yAxis["title"]["text"] = "Number of disease cases (registered for the first time) per 100 000 population"
 
     result["tooltip"] = {}
     tooltip = result["tooltip"]

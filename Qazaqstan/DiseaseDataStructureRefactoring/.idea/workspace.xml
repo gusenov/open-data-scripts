@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5397933-24d6-4434-9193-f54599da58df" name="Default" comment="" />
+    <list default="true" id="c5397933-24d6-4434-9193-f54599da58df" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/disease-statistics-by-year-and-by-region.js" afterPath="$PROJECT_DIR$/disease-statistics-by-year-and-by-region.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/highcharts.py" afterPath="$PROJECT_DIR$/highcharts.py" />
+    </list>
     <ignored path="DiseaseDataStructureRefactoring.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +26,7 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
+            <state relative-caret-position="536">
               <caret line="112" column="96" selection-start-line="112" selection-start-column="96" selection-end-line="112" selection-end-column="96" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -35,8 +38,8 @@
       <file leaf-file-name="highcharts.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/highcharts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="370">
+              <caret line="82" column="84" selection-start-line="82" selection-start-column="84" selection-end-line="82" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -45,7 +48,7 @@
       <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -79,7 +82,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="267" />
-    <option name="y" value="52" />
+    <option name="y" value="80" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -307,7 +310,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="52" width="1400" height="1000" extended-state="0" />
+    <frame x="267" y="80" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -347,6 +350,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="96" selection-start-line="112" selection-start-column="96" selection-end-line="112" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highcharts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -377,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="318" column="0" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -391,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="45">
           <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -401,7 +431,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="536">
           <caret line="112" column="96" selection-start-line="112" selection-start-column="96" selection-end-line="112" selection-end-column="96" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -411,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/highcharts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="370">
+          <caret line="82" column="84" selection-start-line="82" selection-start-column="84" selection-end-line="82" selection-end-column="84" />
           <folding />
         </state>
       </provider>
